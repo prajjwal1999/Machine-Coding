@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/org/example/dto/ParkingSpot/Compact.java;/Users/prajjwalsingh/Downloads/LLD/src/main/java/org/example/dto/ParkingSpot/Large.java;/Users/prajjwalsingh/Downloads/LLD/src/main/java/org/example/dto/ParkingSpot/Mini.java;/Users/prajjwalsingh/Downloads/LLD/src/main/java/org/example/dto/ParkingSpot/ParkingSpot.java;/Users/prajjwalsingh/Downloads/LLD/src/main/java/org/example/dto/EntrancePanel.java;/Users/prajjwalsingh/Downloads/LLD/src/main/java/org/example/dto/ExitPanel.java;/Users/prajjwalsingh/Downloads/LLD/src/main/java/org/example/Main.java;/Users/prajjwalsingh/Downloads/LLD/pom.xml" />
+  </component>
+</project>
