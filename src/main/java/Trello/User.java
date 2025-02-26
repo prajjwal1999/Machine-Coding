@@ -1,4 +1,4 @@
-package TicTacToe;
+package Trello;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -7,8 +7,8 @@ import lombok.Setter;
 @Getter
 @Setter
 @AllArgsConstructor
-public class Players {
+public class User {
     private String name;
     private String id;
-    private String type;
+    private String email;
 }

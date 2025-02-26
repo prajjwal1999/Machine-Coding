@@ -1,4 +1,4 @@
-package TicTacToe;
+package Ecommerce;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -7,8 +7,9 @@ import lombok.Setter;
 @Getter
 @Setter
 @AllArgsConstructor
-public class Players {
+public class Product {
+    private long id;
     private String name;
-    private String id;
-    private String type;
+    private int quantity;
+    private double price;
 }
